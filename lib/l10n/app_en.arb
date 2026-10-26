@@ -1,10 +1,129 @@
 {
   "@@locale": "en",
   "appName": "Gmailoo",
-  "importantUnread": "Important unread",
-  "important": "Important",
-  "timetables": "Timetables",
-  "marketing": "Marketing",
-  "everythingElse": "Everything else",
-  "zenDay": "Zen Day"
+  "tagline": "Ephemeral & Calm Email",
+  "cancel": "Cancel",
+  "save": "Save",
+  "done": "Done",
+  "back": "Back",
+  "searchHint": "Search this week's mail...",
+  "openInGmail": "Open in Gmail",
+  "reply": "Reply",
+  "forward": "Forward",
+  "send": "Send",
+  "compose": "Compose",
+  "tabInbox": "Inbox",
+  "tabTimetables": "Timetables",
+  "tabVips": "VIPs",
+  "tabSettings": "Settings",
+  "splashSyncing": "Syncing this week's mail...",
+  "splashSecurityFootnote": "Encrypted & Local Only • Powered by Gmail API",
+  "onboardingSkip": "Skip",
+  "onboardingTitle1": "Email that clears itself. Zero anxiety.",
+  "onboardingBody1": "Only see this week's emails. Marketing noise is silenced, exam timetables are prioritized, and every Friday gives you a fresh start.",
+  "onboardingTitle2": "Friday Zen Day: Automatic Local Reset",
+  "onboardingBody2": "Every Friday, your inbox empties so you can truly disconnect for the weekend. Your Gmail archive is always safe and untouched.",
+  "onboardingTitle3": "Smart Buckets & VIP Priority",
+  "onboardingBody3": "Timetables, important unread, and VIP contacts get clear signals. No notification unless it truly matters.",
+  "onboardingGetStarted": "Get Started",
+  "onboardingSignInPrompt": "Already have an account? Sign In",
+  "authHeadline": "Connect Your Google Account",
+  "authSubtitle": "Link your Gmail securely to experience an ephemeral, stress-free inbox.",
+  "authContinueWithGoogle": "Continue with Google",
+  "authTrustPoint1": "Reads & auto-sorts only mail from the current week.",
+  "authTrustPoint2": "Sends replies & schedules messages upon your request.",
+  "authTrustPoint3": "Local-only ephemeral wipe: Original emails are never deleted in Gmail.",
+  "authTrustPoint4": "No third-party tracking, advertising, or selling.",
+  "authOfficialScopeBadge": "Official Google OAuth 2.0 Restricted Scope Verified",
+  "authLegalFooter": "Complies with Egypt PDPL (Law 151/2020) & Google API User Data Policy.",
+  "bucketAll": "All",
+  "bucketImportantUnread": "Important unread",
+  "bucketImportant": "Important",
+  "bucketTimetables": "Timetables",
+  "bucketMarketing": "Marketing",
+  "bucketVip": "VIP",
+  "cycleStatusBadge": "This Week • {days}d left",
+  "@cycleStatusBadge": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "emptyInbox": "You're all caught up for this week.",
+  "emptyFilter": "No emails in this bucket.",
+  "syncedWithGmail": "Synced with Gmail",
+  "daysRemaining": "{days}d remaining",
+  "@daysRemaining": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "addToCalendar": "Add to Calendar",
+  "eventSynced": "Synced to Google Calendar",
+  "downloadAttachment": "Download Attachment",
+  "timetablesTitle": "Timetables & Schedules",
+  "timetablesBanner": "Verified Events Detected from Email • Wipes Friday on Zen Day",
+  "filterAll": "All",
+  "filterExams": "Exams",
+  "filterLectures": "Lectures",
+  "filterDeadlines": "Deadlines",
+  "vipsTitle": "VIP Senders",
+  "vipsSubtitle": "VIP emails always bypass marketing filters and trigger notifications.",
+  "addVip": "Add VIP Sender",
+  "vipProfessor": "Professor",
+  "vipWork": "Work",
+  "zenDayTitle": "You're Done for the Week.",
+  "zenDaySubtitleAr": "Clean inbox, calm mind",
+  "zenDayDescription": "Every email from this week has been cleared from your device so you can disconnect. Remember, all your original emails are untouched and safely preserved in Gmail.",
+  "zenStatCleared": "Emails Cleared",
+  "zenStatVip": "VIP & Priority Attended",
+  "zenStatTimetables": "Timetables Synced",
+  "zenStatMarketing": "Marketing Pitches Muted",
+  "zenNextCycle": "Next cycle begins Saturday • Resets in {hours}h",
+  "@zenNextCycle": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "zenEnjoyWeekend": "Enjoy Your Weekend 🌿",
+  "zenTrustBadge": "Zero unread anxiety • 100% ephemeral privacy",
+  "settingsTitle": "Settings",
+  "settingsAccount": "Connected Account",
+  "settingsAppearance": "Appearance & Display",
+  "settingsTheme": "Theme",
+  "settingsThemeLight": "Light",
+  "settingsThemeDark": "Dark",
+  "settingsThemeSystem": "System",
+  "settingsLanguage": "Language",
+  "settingsLanguageAr": "العربية (Arabic)",
+  "settingsLanguageEn": "English",
+  "settingsDigits": "Digit Style",
+  "settingsDigitsWestern": "Western (0-9)",
+  "settingsDigitsIndic": "Arabic-Indic (٠-٩)",
+  "settingsNotifications": "Zen Notifications",
+  "settingsNotificationsDesc": "Only VIPs and Important Unread trigger notifications",
+  "settingsQuietHours": "Quiet Hours (10:00 PM – 8:00 AM)",
+  "settingsStorage": "Ephemeral Local Storage",
+  "settingsCacheSize": "Cached Locally: {size}",
+  "@settingsCacheSize": {
+    "placeholders": {
+      "size": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsClearCache": "Clear Local Cache Now",
+  "settingsSignOut": "Sign Out & Revoke Local Access",
+  "settingsVersion": "Gmailoo Version",
+  "composeTitle": "New Message",
+  "toField": "To",
+  "subjectField": "Subject",
+  "bodyField": "Write your message...",
+  "scheduleSend": "Schedule Send",
+  "discard": "Discard"
 }

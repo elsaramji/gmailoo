@@ -31,33 +31,34 @@ dependencies:
   path: ^1.9.1
 
   # Authentication & Google / Gmail APIs
-  firebase_core: ^4.15.0
-  firebase_auth: ^6.7.0
-  google_sign_in: ^7.2.0
-  googleapis: ^17.0.0
-  extension_google_sign_in_as_googleapis_auth: ^3.0.0
-  http: ^1.6.0
+  # firebase_core: ^4.15.0
+  # firebase_auth: ^6.7.0
+  # google_sign_in: ^7.2.0
+  # googleapis: ^17.0.0
+  # extension_google_sign_in_as_googleapis_auth: ^3.0.0
+  # http: ^1.6.0
 
   # Push Notifications & Background Scheduling
-  firebase_messaging: ^16.7.0
-  flutter_local_notifications: ^22.3.1
-  workmanager: ^0.10.10
+  # firebase_messaging: ^16.7.0
+  # flutter_local_notifications: ^22.3.1
+  # workmanager: ^0.10.10
 
   # Time, Timezone & Localization
-  timezone: ^0.11.1
-  flutter_timezone: ^5.1.0
+  #timezone: ^0.11.1
+  #flutter_timezone: ^5.1.0
   intl: ^0.20.3
 
   # Content Rendering, MIME Handling & Utilities
-  webview_flutter: ^4.14.1
-  html: ^0.15.7
-  crypto: ^3.0.7
-  uuid: ^4.6.0
-  mime: ^2.1.0
-  url_launcher: ^6.3.2
+ # webview_flutter: ^4.14.1
+  # html: ^0.15.7
+  #crypto: ^3.0.7
+  #uuid: ^4.6.0
+  #mime: ^2.1.0
+  #url_launcher: ^6.3.2
 
   # Design System, Typography & Iconography
   cupertino_icons: ^1.0.9
+  flutter_screenutil_plus: ^1.6.0
   material_symbols_icons: ^4.2960.0
   flutter_svg: ^2.3.0
 
